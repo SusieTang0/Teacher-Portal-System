@@ -1,0 +1,21 @@
+﻿<Window x:Class="TeacherPortal.EditSubject"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TeacherPortal"
+        mc:Ignorable="d"
+        Title="EditSubject" Height="450" Width="500">
+    <Grid>
+        <Label Content="Subject Code" HorizontalAlignment="Left" Margin="110,105,0,0" VerticalAlignment="Top" Height="37" Width="112"/>
+        <Label Content="Subject Name" HorizontalAlignment="Left" Margin="110,147,0,0" VerticalAlignment="Top"/>
+        <Label Content="Number of credit" HorizontalAlignment="Left" Margin="110,245,0,0" VerticalAlignment="Top"/>
+        <Label Content="Start Date" HorizontalAlignment="Left" Margin="110,195,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="codeTxb" Text="{Binding SubjectCode}" HorizontalAlignment="Left" Margin="250,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" IsReadOnly="True"/>
+        <TextBox x:Name="nameTxb" Text="{Binding SubjectName}" HorizontalAlignment="Left" Margin="250,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148"/>
+        <TextBox x:Name="numberTxb" Text="{Binding StartDate}" HorizontalAlignment="Left" Margin="250,249,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148"/>
+        <TextBox x:Name="startDateTxb" Text="{Binding NumberOfCredit}" HorizontalAlignment="Left" Margin="250,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148"/>
+        <Button x:Name="editSubjectBtn" Content="Edit Subject" HorizontalAlignment="Left" Margin="180,330,0,0" VerticalAlignment="Top" Height="52" Width="144" Click="editSubjectBtn_Click"/>
+
+    </Grid>
+</Window>

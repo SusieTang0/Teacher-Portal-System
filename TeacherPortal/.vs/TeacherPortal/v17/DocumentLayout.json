@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\teacherportal\\addbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|solutionrelative:teacherportal\\addbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\teacherportal\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|solutionrelative:teacherportal\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|d:\\z-study\\fsd-11\\420-wf4-ab_application development i\\assignments\\2024-07-24_assignment2\\teacherportal\\teacherportal\\signin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|solutionrelative:teacherportal\\signin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\teacherportal\\crudpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|solutionrelative:teacherportal\\crudpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|d:\\z-study\\fsd-11\\420-wf4-ab_application development i\\assignments\\2024-07-24_assignment2\\teacherportal\\teacherportal\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|solutionrelative:teacherportal\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|d:\\z-study\\fsd-11\\420-wf4-ab_application development i\\assignments\\2024-07-24_assignment2\\teacherportal\\teacherportal\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|solutionrelative:teacherportal\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|d:\\z-study\\fsd-11\\420-wf4-ab_application development i\\assignments\\2024-07-24_assignment2\\teacherportal\\teacherportal\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|solutionrelative:teacherportal\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|d:\\z-study\\fsd-11\\420-wf4-ab_application development i\\assignments\\2024-07-24_assignment2\\teacherportal\\teacherportal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|solutionrelative:teacherportal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|d:\\z-study\\fsd-11\\420-wf4-ab_application development i\\assignments\\2024-07-24_assignment2\\teacherportal\\teacherportal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|solutionrelative:teacherportal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|d:\\z-study\\fsd-11\\420-wf4-ab_application development i\\assignments\\2024-07-24_assignment2\\teacherportal\\teacherportal\\editsubject.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6202F8-3F25-4953-89F8-49DA68D955D2}|TeacherPortal\\TeacherPortal.csproj|solutionrelative:teacherportal\\editsubject.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 47,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignIn.xaml",
+              "DocumentMoniker": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\SignIn.xaml",
+              "RelativeDocumentMoniker": "TeacherPortal\\SignIn.xaml",
+              "ToolTip": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\SignIn.xaml",
+              "RelativeToolTip": "TeacherPortal\\SignIn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T22:16:46.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\Register.xaml",
+              "RelativeDocumentMoniker": "TeacherPortal\\Register.xaml",
+              "ToolTip": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\Register.xaml",
+              "RelativeToolTip": "TeacherPortal\\Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T22:13:53.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "TeacherPortal\\Register.xaml.cs",
+              "ToolTip": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\Register.xaml.cs",
+              "RelativeToolTip": "TeacherPortal\\Register.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:13:47.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TeacherPortal\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TeacherPortal\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:13:34.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TeacherPortal\\MainWindow.xaml",
+              "ToolTip": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\MainWindow.xaml",
+              "RelativeToolTip": "TeacherPortal\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T22:13:30.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignIn.xaml.cs",
+              "DocumentMoniker": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\SignIn.xaml.cs",
+              "RelativeDocumentMoniker": "TeacherPortal\\SignIn.xaml.cs",
+              "ToolTip": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\SignIn.xaml.cs",
+              "RelativeToolTip": "TeacherPortal\\SignIn.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwDAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:13:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CRUDPage.xaml.cs",
+              "DocumentMoniker": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\CRUDPage.xaml.cs",
+              "RelativeDocumentMoniker": "TeacherPortal\\CRUDPage.xaml.cs",
+              "ToolTip": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\CRUDPage.xaml.cs",
+              "RelativeToolTip": "TeacherPortal\\CRUDPage.xaml.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAADwv5QAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:17:29.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditSubject.xaml.cs",
+              "DocumentMoniker": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\EditSubject.xaml.cs",
+              "RelativeDocumentMoniker": "TeacherPortal\\EditSubject.xaml.cs",
+              "ToolTip": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\EditSubject.xaml.cs",
+              "RelativeToolTip": "TeacherPortal\\EditSubject.xaml.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAmwK0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:17:26.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddBook.xaml.cs",
+              "DocumentMoniker": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\AddBook.xaml.cs",
+              "RelativeDocumentMoniker": "TeacherPortal\\AddBook.xaml.cs",
+              "ToolTip": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\AddBook.xaml.cs",
+              "RelativeToolTip": "TeacherPortal\\AddBook.xaml.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAwDoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:16:52.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddBook.xaml",
+              "DocumentMoniker": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\AddBook.xaml",
+              "RelativeDocumentMoniker": "TeacherPortal\\AddBook.xaml",
+              "ToolTip": "D:\\Z-Study\\FSD-11\\420-WF4-AB_Application Development I\\Assignments\\2024-07-24_Assignment2\\TeacherPortal\\TeacherPortal\\AddBook.xaml",
+              "RelativeToolTip": "TeacherPortal\\AddBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T21:16:49.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 47,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

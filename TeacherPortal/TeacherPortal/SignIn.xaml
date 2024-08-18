@@ -1,0 +1,39 @@
+﻿<Window x:Class="TeacherPortal.SignIn"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TeacherPortal"
+        mc:Ignorable="d"
+        Title="SignIn" Height="403" Width="547">
+    <Viewbox>
+        <Grid Width="453" Height="320">
+            <DockPanel LastChildFill="False" Margin="0,32,0,231">
+                <DockPanel.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <LinearGradientBrush.RelativeTransform>
+                            <TransformGroup>
+                                <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                                <RotateTransform Angle="325.305" CenterX="0.5" CenterY="0.5"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </LinearGradientBrush.RelativeTransform>
+                        <GradientStop Color="#FF4C88AB" Offset="1"/>
+                        <GradientStop Color="#FFD5FECA" Offset="0"/>
+                    </LinearGradientBrush>
+                </DockPanel.Background>
+            </DockPanel>
+            <Label Content="Teacher Portal System" HorizontalAlignment="Left" Margin="114,39,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold" Height="43" Width="274"/>
+
+            <Label x:Name="stuffIdLabel" Content="Staff ID" Margin="114,155,266,140" Height="25" Width="73"/>
+            <TextBox x:Name="staffIdTxb" HorizontalAlignment="Left" Margin="198,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153" Height="21"/>
+            <Label Content="Sign In As Teacher" Margin="114,108,176,181" FontSize="16" FontWeight="Bold" Width="163"/>
+            <Label x:Name="passwordLabel" Content="Password" HorizontalAlignment="Left" Margin="114,192,0,0" VerticalAlignment="Top" Height="25" Width="67"/>
+            <PasswordBox x:Name="passswordTxb" HorizontalAlignment="Left" Margin="198,196,0,0" VerticalAlignment="Top" Width="153" Height="21"/>
+            <Button x:Name="signInBtn" Content="Sign In" HorizontalAlignment="Left" Margin="122,243,0,0" VerticalAlignment="Top" Height="24" Width="94" Click="signInBtn_Click" Background="#FFAFC5F6" />
+            <Button x:Name="BackBtn" Content="Back" HorizontalAlignment="Left" Margin="286,243,0,0" VerticalAlignment="Top" Width="65" Click="BackBtn_Click" Height="24" />
+
+        </Grid>
+    </Viewbox>
+</Window>
